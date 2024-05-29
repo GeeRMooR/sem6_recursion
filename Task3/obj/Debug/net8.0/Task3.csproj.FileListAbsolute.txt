@@ -1,0 +1,15 @@
+C:\education\sem6_recursion\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\sem6_recursion\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\education\sem6_recursion\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\education\sem6_recursion\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\education\sem6_recursion\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+C:\education\sem6_recursion\Task3\bin\Debug\net8.0\Task3.exe
+C:\education\sem6_recursion\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\education\sem6_recursion\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\education\sem6_recursion\Task3\bin\Debug\net8.0\Task3.dll
+C:\education\sem6_recursion\Task3\bin\Debug\net8.0\Task3.pdb
+C:\education\sem6_recursion\Task3\obj\Debug\net8.0\Task3.dll
+C:\education\sem6_recursion\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\education\sem6_recursion\Task3\obj\Debug\net8.0\Task3.pdb
+C:\education\sem6_recursion\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\education\sem6_recursion\Task3\obj\Debug\net8.0\ref\Task3.dll
